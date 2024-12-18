@@ -144,21 +144,18 @@ I'm **Saqib AHmed**, a Information Technology Student At Sindh Agriculture Unive
   </tr>
 </table>
 
+<h1><img src="https://media3.giphy.com/media/ZjtF698DrjHGcntUCB/giphy.gif" width="50px">GitHub Analytics </h1>
 
-   <p align="center">
-    <a href="https://github.com/arhamansari11">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arhamansari11&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arhamansari11&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
+
+<p align="center">
+    <a href="https://github.com/AaMna-AnSari">
+          <img height="180em"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AaMna-AnSari&show_icons=true&theme=radical&include_all_commits=true&count_private=true&"/> 
+          <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AaMna-AnSari&layout=compact&langs_count=8&theme=radical&"/>
+     </a> 
+<!--      <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=AaMna-AnSari&show_icons=true&locale=en&layout=demo&theme=dracula&hide_border=true"/> -->
+     <img width="83%" src="https://github-readme-streak-stats.herokuapp.com/?user=AaMna-AnSari&show_icons=true&locale=en&layout=demo&theme=radical&"/>
 </p>
-
-
-
- <p align="center">
-   <a href="https://github.com/arhamansari11"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" /> 
-   </a>  
- </p>
+</p>
 
 
 
