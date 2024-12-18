@@ -143,11 +143,7 @@ I'm **Saqib AHmed**, a Information Technology Student At Sindh Agriculture Unive
     </td>
   </tr>
 </table>
-     <p align="center">
-   <a href="https://github.com/SaqibBehlum"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaqibBehlum&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" /> 
-   </a>  
- </p>
+   
 
 
 
