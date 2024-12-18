@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <!-- <h2 align="center"> Hi &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2> -->
 <h2 align="center"> &lt;𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍/&gt;! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px"> </h2>
 
@@ -18,7 +18,7 @@ I'm **Saqib AHmed**, a Information Technology Student At Sindh Agriculture Unive
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saqibahmedbehlum/)](https://www.linkedin.com/in/saqibahmedbehlum/)
 [![GitHub followers](https://img.shields.io/github/followers/SaqibBehlum?label=Follow&style=social)](https://github.com/SaqibBehlum/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:behlumsaqibali@gmail.com)](mailto:behlumsaqibali@gmail.com)
-[![LeetCode Solved Problems](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faamna-ansari&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/aamna-ansari/)
+[![LeetCode Solved Problems](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FSaqibAhmedBehlum&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/SaqibAhmedBehlum/)
 
 </div>
 
