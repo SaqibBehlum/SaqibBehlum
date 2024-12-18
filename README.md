@@ -28,15 +28,10 @@ I'm **Saqib AHmed**, a Information Technology Student At Sindh Agriculture Unive
  <h1 align="left"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34px"> About </h1> 
 <!-- <h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="60px"> About </h1> -->
   
-- 📘  𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Web Development
-- 🖥️ 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀: Frontend Development
-- 👨‍🏫 𝗥𝗼𝗹𝗲: Moderator | Trainer at <a href="https://www.icode.guru/join" target="_blank">iCodeGuru</a>
-- 🧠 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗔𝗯𝗼𝘂𝘁: Solving complex Data Structures and Algorithms
-- 🎓 𝗩𝗼𝗹𝘂𝗻𝘁𝗲𝗲𝗿: Teaches Python and DSA at <a href="https://www.icode.guru/" target="_blank">iCodeGuru</a>
-- 🥅 2024 𝗚𝗼𝗮𝗹𝘀: Elevating Open Source Contributions
-- 🚀 𝗔𝗰𝘁𝗶𝘃𝗲 𝗜𝗻: Participating in coding competitions & hackathons
-- 🌍 𝗣𝗵𝗗 𝗮𝘀𝗽𝗶𝗿𝗮𝘁𝗶𝗼𝗻𝘀: Advancing in tech in the US
-- 📞 𝗖𝗼𝗻𝘁𝗮𝗰𝘁: Don't hesitate to reach out & let's connect and start a conversation.
+- 🖥️ 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀: Full Stack Development
+- 🧠 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗔𝗯𝗼𝘂𝘁: Solving Real World Problems
+- 🚀 Participation 𝗜𝗻: Participating in coding competitions & hackathons
+- 📞 𝗖𝗼𝗻𝘁𝗮𝗰𝘁: Don't hesitate to reach out
 
 --- 
 <h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35px"> Favorite Tech</h1>
