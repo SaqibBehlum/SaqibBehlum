@@ -155,9 +155,9 @@ I'm **Saqib AHmed**, a Information Technology Student At Sindh Agriculture Unive
 </p>
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/047pegasus/047pegasus/blob/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/047pegasus/047pegasus/blob/output/github-snake-dark.svg">
-  <img alt="github-snake" src="https://github.com/047pegasus/047pegasus/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SaqibBehlum/047pegasus/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SaqibBehlum/047pegasus/blob/output/github-snake-dark.svg">
+  <img alt="github-snake" src="https://github.com/SaqibBehlum/047pegasus/blob/output/github-snake-dark.svg">
 </picture>
 </p>
 
