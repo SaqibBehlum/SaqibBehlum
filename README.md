@@ -155,12 +155,12 @@ I'm **Saqib AHmed**, a Information Technology Student At Sindh Agriculture Unive
           <img height="180em"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaqibBehlum&show_icons=true&theme=radical&include_all_commits=true&count_private=true&"/> 
           <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SaqibBehlum&layout=compact&langs_count=8&theme=radical&"/>
      </a> 
-<!--      <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=AaMna-AnSari&show_icons=true&locale=en&layout=demo&theme=dracula&hide_border=true"/> -->
-     <img width="83%" src="https://github-readme-streak-stats.herokuapp.com/?user=AaMna-AnSari&show_icons=true&locale=en&layout=demo&theme=radical&"/>
+<!--      <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaqibBehlum&show_icons=true&locale=en&layout=demo&theme=dracula&hide_border=true"/> -->
+     <img width="83%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaqibBehlum&show_icons=true&locale=en&layout=demo&theme=radical&"/>
 </p>
 </p>
 
-![AaMna AnSari's Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaqibBehlum&custom_title=Al%20SaqibBehlumi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=ff2079&line=ff2079&point=fff400&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Saqib Behlum's Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaqibBehlum&custom_title=Al%20SaqibBehlumi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=ff2079&line=ff2079&point=fff400&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
  
 <!--
