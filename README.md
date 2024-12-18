@@ -144,24 +144,10 @@ I'm **Saqib AHmed**, a Information Technology Student At Sindh Agriculture Unive
   </tr>
 </table>
 
-<!-- <h1><img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="45px"> GitHub Analytics </h1> --> 
-<!--<h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">GitHub Analytics </h1> -->
-<h1><img src="https://media3.giphy.com/media/ZjtF698DrjHGcntUCB/giphy.gif" width="50px">GitHub Analytics </h1>
-
-<p align="center">
-    <a href="https://github.com/SaqibBehlum">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaqibBehlum&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SaqibBehlum&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
-</p>
 
 
 
- <p align="center">
-   <a href="https://github.com/SaqibBehlum"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaqibBehlum&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" /> 
-   </a>  
- </p>
+
 
 
 ![Saqib Behlum's Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaqibBehlum&custom_title=Al%20SaqibBehlum's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=ff2079&line=ff2079&point=fff400&area_color=FFFFFF&title_color=FFFFFF&area=true)
