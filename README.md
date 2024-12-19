@@ -126,22 +126,6 @@ I'm **Saqib Ahmed**, a Information Technology Student At Sindh Agriculture Unive
       </a>
       <br>Slack
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="48" height="48" />
-      </a>
-      <br>Trello
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="48" height="48" />
-      </a>
-      <br>Canva
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" />
-      </a>
-      <br>Postman
-    </td>
-  </tr>
 </table>
 
 <h1><img src="https://media3.giphy.com/media/ZjtF698DrjHGcntUCB/giphy.gif" width="50px">GitHub Analytics </h1>
