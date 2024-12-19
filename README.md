@@ -112,11 +112,6 @@ I'm **Saqib Ahmed**, a Information Technology Student At Sindh Agriculture Unive
       <br>Vercel
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/surgesh/surgesh-icon.svg" alt="Surge" width="48" height="48" />
-      </a>
-      <br>
-    </td>
-    <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="Discord" width="48" height="48" />
       </a>
       <br>Discord
