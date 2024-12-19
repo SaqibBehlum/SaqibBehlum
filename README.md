@@ -3,7 +3,7 @@
 <h2 align="center"> &lt;𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍/&gt;! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px"> </h2>
 
 
-I'm **Saqib AHmed**, a Information Technology Student At Sindh Agriculture University Tandojam. I am Learning to code and create with passion. Exploring the exciting world of technology, one step at a time. Focused on improving skills and building small, meaningful projects. Ready to grow and take on new challenges in the IT field!
+I'm **Saqib Ahmed**, a Information Technology Student At Sindh Agriculture University Tandojam. I am Learning to code and create with passion. Exploring the exciting world of technology, one step at a time. Focused on improving skills and building small, meaningful projects. Ready to grow and take on new challenges in the IT field!
 
 
 
